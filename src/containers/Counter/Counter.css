@@ -1,0 +1,16 @@
+.counter {
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.counter_counter-box{
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+}
