@@ -1,3 +1,5 @@
+![Screenshot](https://cdn1.imggmi.com/uploads/2019/9/20/28abd197d10c27a33fadaa8bf1d4351e-full.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
